@@ -91,6 +91,9 @@ Regularization
 
 
 
+## Stochastic Gradient Descent
+
+## Feature Scaling
 
 
 
@@ -98,8 +101,7 @@ Regularization
 
 
 
-
-
+ 
 
 
 

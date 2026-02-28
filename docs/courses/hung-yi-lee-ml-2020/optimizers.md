@@ -1,0 +1,5 @@
+- SGD
+- SGD with momentum
+- Adagrad
+- RMSProp
+- Adam
