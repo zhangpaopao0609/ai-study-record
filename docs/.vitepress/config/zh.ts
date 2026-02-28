@@ -80,11 +80,21 @@ function sidebar(): DefaultTheme.Sidebar {
         ],
       },
     ],
+    '/zh/courses/hung-yi-lee-ml-2020/': [
+      {
+        text: '李宏毅机器学习 2020',
+        items: [
+          { text: '课程概览', link: '/zh/courses/hung-yi-lee-ml-2020/' },
+          { text: 'Regression', link: '/zh/courses/hung-yi-lee-ml-2020/regression' },
+        ],
+      },
+    ],
     '/zh/courses/': [
       {
         text: '课程笔记',
         items: [
           { text: '概览', link: '/zh/courses/' },
+          { text: '李宏毅机器学习 2020', link: '/zh/courses/hung-yi-lee-ml-2020/' },
         ],
       },
     ],

@@ -77,11 +77,21 @@ function sidebar(): DefaultTheme.Sidebar {
         ],
       },
     ],
+    '/courses/hung-yi-lee-ml-2020/': [
+      {
+        text: 'Hung-yi Lee ML 2020',
+        items: [
+          { text: 'Overview', link: '/courses/hung-yi-lee-ml-2020/' },
+          { text: 'Regression', link: '/courses/hung-yi-lee-ml-2020/regression' },
+        ],
+      },
+    ],
     '/courses/': [
       {
         text: 'Courses',
         items: [
           { text: 'Overview', link: '/courses/' },
+          { text: 'Hung-yi Lee ML 2020', link: '/courses/hung-yi-lee-ml-2020/' },
         ],
       },
     ],
